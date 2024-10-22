@@ -1,0 +1,14 @@
+[
+  {
+    "tipo": "retiro",
+    "monto": 2000,
+    "destinatario": "Ana Gonzales",
+    "id": 1
+  },
+  {
+    "tipo": "retiro",
+    "monto": 1000,
+    "destinatario": "Juan Perez",
+    "id": 2
+  }
+]
